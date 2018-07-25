@@ -1,6 +1,12 @@
 # Архитектура [impala] & Реверс инженирин
 https://drive.google.com/drive/folders/1PeSjTYCseqXeYKvyAp5IkAkevv3TKQaV
 
+# Реверс инжениринг в Enterprise Architect (EA) в "Лаборатории Касперского"
+https://www.youtube.com/watch?v=pCHQZwvgxNM
+
+![Image alt](https://roem.ru/wp-content/uploads/2018/04/kitajkasperskayachubajs.jpg)
+
+
 # Welcome to Impala
 
 Lightning-fast, distributed [SQL](http://en.wikipedia.org/wiki/SQL) queries for petabytes
