@@ -1,3 +1,6 @@
+# Архитектура [impala] & Реверс инженирин
+https://drive.google.com/drive/folders/1PeSjTYCseqXeYKvyAp5IkAkevv3TKQaV
+
 # Welcome to Impala
 
 Lightning-fast, distributed [SQL](http://en.wikipedia.org/wiki/SQL) queries for petabytes
